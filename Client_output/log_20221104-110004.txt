@@ -1,0 +1,20 @@
+------------------------BEGIN OUTPUT------------------------------------------
+
+Connection summary:
+Fri, 04 Nov 2022 10:00:01 GMT
+Client: 127.0.0.1
+Server: 127.0.0.1:5201
+Protocol: TCP
+Reverse direction: True
+Number of test streams: 3
+Test duration: 3 s
+
+------------------------------------------------------------------------------
+
+Total sent bitrate: 31.58 Mbps
+Total received bitrate: 31.74 Mbps
+Data sent: 11.44 MBytes
+Data received: 11.35 MBytes
+Retransmits: 0
+
+------------------------END OUTPUT--------------------------------------------
